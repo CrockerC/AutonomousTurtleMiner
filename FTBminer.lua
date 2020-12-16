@@ -4,6 +4,7 @@
 --because of this the turtle is nearly useless on singleplayer worlds, and only useful on servers until the server is shut off.
 --aside from this flaw, which cannot really be worked around without having multiple turtles, this turtle is entirely game breaking
 --just a few of these running will be equivalent to a high voltage quarry while using very little power and being easy(ish - needs ender pearls and blaze rods) to make
+--turtle currently cannot deal with being shutdown under a block of bedrock
 
 
 --global variables are used because lua does not have addressing so i cant pass the variables' addresses into the recursive function
